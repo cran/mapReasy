@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(sp, rgdal, Hmisc)
+importFrom("graphics", "barplot", "pie", "points", "text")
+importFrom("utils", "data")
+
